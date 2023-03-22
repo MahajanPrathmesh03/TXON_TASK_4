@@ -1,0 +1,18 @@
+body {
+    background-color: #EAF6F6;
+}
+h1 {
+    color: rgb(85, 145, 210);
+}
+h3 {
+    color: #66BFBF;
+}
+hr {
+    border-style: none;
+    border-top-style: dotted;
+    /* rather than this we can also write the border-style: dotted none none ; here none none two times represent the border style for left right side and bottom */
+    /* here all things on the web page is a rectangular page. */
+    border-color: grey;
+    width: 5%;
+    border-width: 5px;
+}
